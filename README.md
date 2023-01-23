@@ -1,3 +1,3 @@
 # Asymmetrical-Pitch-Angle-Scattering
 Monte Carlo simulation of asymmetrical pitch angle scattering.
-Theory behind the simulation is explained in the summary pdf document
+Don't esitate to contact for questions on the theory behind the simulation 
